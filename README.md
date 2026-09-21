@@ -5,21 +5,6 @@
 Me chamo LUANA, tenho 19 anos e sou Joanópolis. Concluí o ensino médio no EE Cel João Ernesto Figueiredo, com o curso técnico em ADMINISTRAÇÃO. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IFSP-BRA. Início em agosto de 2026 e previsão de conclusão em 2029. Sempre gostei de ver como as coisas são criadas e todo o seu processo por trás, por isso escolhi essa área.
 Atualmente, buscando uma primeira oportunidade de estágio na área de tecnologia, com o objetivo de aprender e evoluir profissionalmente".
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
