@@ -6,7 +6,7 @@ Me chamo LUANA, tenho 19 anos e sou Joanópolis. Concluí o ensino médio no EE 
 Atualmente, buscando uma primeira oportunidade de estágio na área de tecnologia, com o objetivo de aprender e evoluir profissionalmente".
 
 
-### 🤖 Linguagens e Tecnologias
+### ​💻​ Linguagens e Tecnologias
 
 <img 
     align="left" 
