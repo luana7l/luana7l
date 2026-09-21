@@ -1,6 +1,6 @@
 ## LUANA 
 
-**`Desenvolvedora em formação`**
+**`Desenvolvedora em formação 👩‍💻​`**
 
 Me chamo LUANA, tenho 19 anos e sou Joanópolis. Concluí o ensino médio no EE Cel João Ernesto Figueiredo, com o curso técnico em ADMINISTRAÇÃO. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IFSP-BRA. Início em agosto de 2026 e previsão de conclusão em 2029. Sempre gostei de ver como as coisas são criadas e todo o seu processo por trás, por isso escolhi essa área.
 Atualmente, buscando uma primeira oportunidade de estágio na área de tecnologia, com o objetivo de aprender e evoluir profissionalmente".
